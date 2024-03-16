@@ -1,4 +1,4 @@
-# Calibration-EyeTracker-Stereo-Camera
+# Calibration EyeTracker & Stereo Camera
 
 ![Calibration Problem](imgs/CalibrationProblem.png)
 
