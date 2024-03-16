@@ -1,6 +1,6 @@
 # Calibration-EyeTracker-Stereo-Camera
 
-![Calibration Problem](imgs/Calibration Problem.png)
+![Calibration Problem](imgs/CalibrationProblem.png)
 
 Calibrating a camera and eye tracker system involves aligning the data collected by both systems to ensure accurate tracking of eye movements within the camera's field of view. Setup and Configuration process was mounting the camera in a fixed position and setting up the eye tracker system according to the manufacturer's instructions. Then, we display a calibration target on a screen within the camera's field of view. The calibration target typically consists of several points or markers at known locations on the screen. These points will be used as reference points during the calibration process.
 
