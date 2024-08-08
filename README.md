@@ -8,9 +8,12 @@ The eye Tracking Software, was called Facelab, which had its own machine and was
 
 As the participant fixates on each calibration point, both the camera and the eye tracker system will collect data. The camera will capture the participant's gaze direction, while the eye tracker system will record the corresponding eye movements. Then, we finally after collecting the points, we compute translation and rotation using SolvePnP algorithm. Its code is shown below.
 
-![Pseudo Code](imgs/PseudoCode.png)
-
+UML Class Diagram
 ![UML](imgs/UML.png)
+
+Synchrnization between threads
 ![Syncronization of threads](imgs/Syncronization.png)
+
+Execution Flow
 ![Execution Flow](imgs/ExecutionFlow.png)
 
