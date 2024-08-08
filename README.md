@@ -12,3 +12,7 @@ As the participant fixates on each calibration point, both the camera and the ey
 
 ![Pseudo Code](imgs/PseudoCode.png)
 
+![UML](imgs/UML.png)
+![Syncronization of threads](imgs/Syncronization.png)
+![Execution Flow](imgs/ExecutionFlow.png)
+
